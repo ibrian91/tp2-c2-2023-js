@@ -1,0 +1,17 @@
+{
+  "name": "tp2-basic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "arrays.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/4-serverExpress.js"
+  },
+  "author": "Pablo Fernandez",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2"
+  }
+}
